@@ -1,2 +1,2 @@
-# CONNECT 4 GAME
-CONNECT 4 GAME
+# Connect-4--Game
+Connect-4--Game
