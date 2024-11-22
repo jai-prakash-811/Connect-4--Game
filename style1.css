@@ -19,11 +19,13 @@ body {
 #player {
 
 	background-color: #b8c7fb;
+	text-align: center;
 	border: 8px solid #2d1ed6;
 	border-radius: 10px;
 	margin-top: 50px;
 	padding: 20px;
 	width: 550px;
+	height: 30px;
 
 }
 
@@ -33,6 +35,7 @@ body {
 	font-family: "Poppins";
 	letter-spacing: 5px;
 	text-align: center;
+	margin-top: -9px;
 	text-transform: uppercase;
 
 }
@@ -129,8 +132,8 @@ body {
 
 .btn-player-2 {
 
-	background-color: #002c9b;
-	border: 2px solid #0033b5;
+	background-color: #f22c0d;
+	border: 2px solid #f73411;
 	border-radius: 50%;
 	color: red;
 	height:  50px;
