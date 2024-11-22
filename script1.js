@@ -61,7 +61,7 @@ function makeMove(button , buttonNo) {
 
 		if(playerWon(row , col , 1) === true) {
 			setTimeout(function() {
-				alert("Game Over: Green Wins");
+				alert("Game Over: blue Wins");
 				resetBoard();
 			} , 200);
 		}
